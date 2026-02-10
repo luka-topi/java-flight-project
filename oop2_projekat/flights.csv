@@ -1,0 +1,5 @@
+DepartureID,ArrivalID,DepartureTime,Duration
+AAA,BBB,00:10,20
+AAA,BBB,00:40,30
+AAA,BBB,00:20,70
+CCC,AAA,01:00,40
